@@ -1,0 +1,16 @@
+pandas 
+openai 
+kagglehub
+flask
+numpy
+scikit-learn
+nltk
+joblib
+torch
+transformers
+nlpaug
+python-dotenv
+snowflake-connector-python[pandas]
+gdown
+streamlit
+
