@@ -1,0 +1,14 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - gdown=4.7.1
+  - joblib=1.5.2
+  - nltk=3.9.1
+  - openai=1.109.1
+  - python=3.11.*
+  - pytorch=2.3.1
+  - snowflake-connector-python=3.18.0
+  - snowflake-snowpark-python=
+  - streamlit=
+  - transformers=4.49.0
